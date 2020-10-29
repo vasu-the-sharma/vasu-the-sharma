@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Software Development / DSA
+- 🔭 I’m currently working on Competitive Programming
 - 🌱 I’m currently learning Back-end Development
 - 👯 I’m looking to collaborate on Machine Learning
 - 🤔 I’m looking for help with Back-end Development
