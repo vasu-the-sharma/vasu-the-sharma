@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Competitive Programming
-- 🌱 I’m currently learning Back-end Development
-- 👯 I’m looking to collaborate on Machine Learning
-- 🤔 I’m looking for help with Back-end Development
+- 🔭 I’m currently working on Rest APIs using Codeigniter (PHP)
+- 🌱 I’m currently learning React.js in my past-time
+- 👯 I’m looking to collaborate on Node.js/React.js
+- 🤔 I’m looking for help with MERN stack development
 - 💬 Ask me about anything!
 - 📫 How to reach me: vasuthesharma@gmail.com
 - ⚡ Fun fact: Talk is overrated, let's just code. 
